@@ -5,11 +5,15 @@ public class HelloWorld2{
     public static String myString7 = '';
     public static String variable1 = '';
     public static String variable2 = '';
+    public static String variable2 = '';
     public static String myString3 = '';
     public static String myString2 = '';
  
   public ststic Integer getCalculatedValue(){
        myValue=myValue+10;
+        testing;
+        testing2;
+        return my Value;
        testing going on;  
        return my Value;
          
