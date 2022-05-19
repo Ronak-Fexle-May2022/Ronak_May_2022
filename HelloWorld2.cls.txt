@@ -7,6 +7,7 @@ public class HelloWorld2{
     public static String variable2 = '';
     public static String variable2 = '';
     public static String myString3 = '';
+    public static String myString3 = '';
     public static String myString2 = '';
  
   public ststic Integer getCalculatedValue(){
