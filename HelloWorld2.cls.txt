@@ -1,0 +1,6 @@
+public class DemoSampleClass {
+    public DemoSampleClass(){
+           System.debug('Hello Test1 ');
+           System.debug('Hello ');
+    }
+}      
