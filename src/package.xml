@@ -2,6 +2,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>BulkDMLOperations</members>
+        <members>DMLQuery</members>
+        <members>ExIdExample</members>
+        <members>ExceptionExample</members>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
         <members>CountyCodeExample</members>
         <members>InsertsObjectExample</members>
 
@@ -44,10 +52,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>HierarchicalCollectionexample</members>
+
         <name>ApexClass</name>
     </types>
     <version>53.0</version>
 </Package>
+
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
